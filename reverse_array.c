@@ -12,7 +12,7 @@ void reverse(int list[], int rev_array[], int n)
     for(int i = 0 ; i < n ; i++)
         printf("%d ", rev_array[i]);
 }
-
+/*
 int main(void)
 {
     int list[10];
@@ -24,3 +24,4 @@ int main(void)
     }
     reverse(list, reverse_list, 10);
 }
+*/
